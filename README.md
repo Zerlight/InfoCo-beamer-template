@@ -1,6 +1,6 @@
 # InfoCo-beamer-template
 
-Hi👋 This is the template modified and used for XJTLU InfoCo, which is a secondary creation of [SINTEF Presentation](https://www.overleaf.com/latex/templates/sintef-presentation/jhbhdffczpnx) template and [college-beamer](https://github.com/liu-qilong/college-beamer). Thanks [Federico Zenith](federico.zenith@sintef.no) for creating such well-designed works. To use it in my and my friends' schools/institutes, I rewrote and added some icons and features to adapt to specific surroundings✨.
+Hi👋 This is the template modified and used for XJTLU InfoCo, which is a secondary creation of [SINTEF Presentation](https://www.overleaf.com/latex/templates/sintef-presentation/jhbhdffczpnx) template and [college-beamer](https://github.com/liu-qilong/college-beamer). Thanks [Federico Zenith](federico.zenith@sintef.no) for creating such well-designed works.
 
 For the full contribution lists, please go to [college-beamer](https://github.com/liu-qilong/college-beamer).
 
